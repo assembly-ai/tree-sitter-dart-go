@@ -1,4 +1,4 @@
-package c
+package treesitterdartgo
 
 //#include "parser.h"
 //TSLanguage *tree_sitter_dart;
